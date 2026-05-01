@@ -10,13 +10,13 @@ I am a Data Science student with a strong foundation in programming and analytic
 Core Skills
 
 Programming:
-Java, Python
+Java, Python,C
 
 Data Science & Machine Learning:
 Data Preprocessing, Exploratory Data Analysis (EDA), K-Means Clustering, Principal Component Analysis (PCA), Classification Models, Feature Engineering
 
 Web & Application Development:
-HTML, CSS, React (basic), REST API fundamentals
+HTML, CSS, REST API fundamentals
 
 Databases:
 MySQL

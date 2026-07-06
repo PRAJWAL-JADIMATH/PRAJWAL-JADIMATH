@@ -2,7 +2,7 @@ Hi, I'm Prajwal Jadimath
 
 Computer Science (Data Science) Student
 
-Ojective:
+Objective:
 
 Data Science student focused on building practical machine learning and data-driven applications. Experienced in data analysis, clustering, and classification, with an interest in solving real-world problems through simple and efficient solutions.
 
